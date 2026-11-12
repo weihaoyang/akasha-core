@@ -1,0 +1,15 @@
+{
+  "name": "@singseq/akasha-core",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "GPL-3.0-only",
+  "description": "全息物理计算与知识条目",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4"
+  }
+}
